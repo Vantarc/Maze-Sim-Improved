@@ -11,3 +11,5 @@ Erebus Robocup Junior Rescue Maze Simulation (https://github.com/Shadow149/Rescu
 ### How to use it
 This repository replaces the game folder in the Erebus Robocup Junior Rescue Maze Simulation repository.
 Simply clone this repo and replace the folder with it.
+
+Write your program to the file /game/controllers/robot0Controller/robot0Controller.py and it will be automatically loaded whenever you restart the simulation.
